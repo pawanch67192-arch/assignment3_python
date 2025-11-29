@@ -36,3 +36,15 @@ Organized Python package structure for maintainable code
 ✔ Integrated logging using Python’s logging module
 ✔ Clean, modular, and scalable code architecture
 
+# ouput #
+
+=== Library Inventory Manager ===
+
+Menu:
+1. Add Book
+2. Issue Book
+3. Return Book
+4. View All Books
+5. Search by Title
+6. Search by ISBN
+7. Exit
